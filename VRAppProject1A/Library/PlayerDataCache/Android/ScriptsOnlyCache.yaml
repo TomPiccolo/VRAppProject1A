@@ -66,7 +66,6 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
-    - UnityEditor.Graphs.AnimationBlendTree.Node
     - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
@@ -1503,4 +1502,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/VRBowling.unity
   playerPath: /Users/thomaspiccolo/Documents/GitHub/VRAppProject1A/VRAppProject1A/VRAppProject!A
-    11.11.20.apk
+    11.13.20.apk
