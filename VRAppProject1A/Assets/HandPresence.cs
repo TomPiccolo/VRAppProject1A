@@ -55,9 +55,9 @@ public class HandPresence : MonoBehaviour
 
         if (targetDevice.TryGetFeatureValue(CommonUsages.grip, out float gripValue))
         {
-            handAnimator.SetFloat("grip", gripValue);
+            handAnimator.SetFloat("Grip", gripValue);
         }
-        else handAnimator.SetFloat("grip", 0);
+        else handAnimator.SetFloat("Grip", 0);
     }
     
     // Update is called once per frame
