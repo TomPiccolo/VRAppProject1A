@@ -1525,5 +1525,5 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/VRBowling.unity
-  playerPath: /Users/thomaspiccolo/Documents/GitHub/VRAppProject1A/VRAppProject1A/VRAppProject!A1A
-    11.17.20.apk
+  playerPath: /Users/thomaspiccolo/Documents/GitHub/VRAppProject1A/VRAppProject1A/VRAppProject!A1
+    11.18.20.apk

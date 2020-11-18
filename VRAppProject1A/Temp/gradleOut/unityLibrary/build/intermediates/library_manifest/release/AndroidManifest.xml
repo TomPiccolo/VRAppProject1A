@@ -60,7 +60,7 @@
             android:value="True" />
         <meta-data
             android:name="unity.build-id"
-            android:value="c0633edb-b8c7-490d-bb6e-729b6493ab0c" />
+            android:value="8259cf3c-82d6-4233-ba24-c63269fb9d26" />
         <meta-data
             android:name="com.samsung.android.vr.application.mode"
             android:value="vr_only" />
