@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Nov 17 17:51:16 EST 2020
+#Tue Nov 17 20:19:48 EST 2020
 60.set=ASSET
 52.set=ASSET
 53.base=/Users/thomaspiccolo/Documents/GitHub/VRAppProject1A/VRAppProject1A/Temp/gradleOut/launcher/build/intermediates/merged_assets/release/out
