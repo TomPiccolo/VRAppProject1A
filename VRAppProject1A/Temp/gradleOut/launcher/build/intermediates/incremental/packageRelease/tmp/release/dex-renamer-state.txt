@@ -1,4 +1,0 @@
-#Wed Nov 18 15:10:18 EST 2020
-base.0=/Users/thomaspiccolo/Documents/GitHub/VRAppProject1A/VRAppProject1A/Temp/gradleOut/launcher/build/intermediates/transforms/dexMerger/release/0
-path.0=classes.dex
-renamed.0=classes.dex
