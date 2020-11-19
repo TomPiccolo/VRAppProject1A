@@ -32,3 +32,63 @@ Cmd: compileSnippet
   api=9 type=0 insize=10197 outsize=3335 kw= pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_LIGHTMAP_DLDR_ENCODING ok=1
 Cmd: compileSnippet
   api=9 type=1 insize=10197 outsize=0 kw= pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=11051 outsize=867 ok=1
+Cmd: preprocess
+  insize=4469 outsize=393 ok=1
+Cmd: preprocess
+  insize=3913 outsize=393 ok=1
+Cmd: preprocess
+  insize=3260 outsize=385 ok=1
+Cmd: preprocess
+  insize=3260 outsize=385 ok=1
+Cmd: preprocess
+  insize=3913 outsize=393 ok=1
+Cmd: preprocess
+  insize=4469 outsize=393 ok=1
+Cmd: preprocess
+  insize=11051 outsize=867 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=11051 outsize=867 ok=1
+Cmd: preprocess
+  insize=4469 outsize=393 ok=1
+Cmd: preprocess
+  insize=3913 outsize=393 ok=1
+Cmd: preprocess
+  insize=3260 outsize=385 ok=1
+Cmd: preprocess
+  insize=3260 outsize=385 ok=1
+Cmd: preprocess
+  insize=3913 outsize=393 ok=1
+Cmd: preprocess
+  insize=4469 outsize=393 ok=1
+Cmd: preprocess
+  insize=11051 outsize=867 ok=1
