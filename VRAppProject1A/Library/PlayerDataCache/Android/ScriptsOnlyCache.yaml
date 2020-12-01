@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - HandPresence
+    - LocomotionController
     Unity.InputSystem.dll:
     - UnityEngine.InputSystem.InputSettings
     - UnityEngine.InputSystem.InputSystemObject
@@ -39,7 +40,6 @@ ScriptsOnlyBuild:
     - UnityEngine.Rendering.Universal.PostProcessData
     - UnityEngine.Rendering.Universal.UniversalAdditionalCameraData
     - UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset
-    - UnityEngine.Rendering.Universal.UniversalRenderPipelineEditorResources
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     Unity.ShaderGraph.Editor.dll:
@@ -237,6 +237,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 16220}
     - Class: 114
       Script: {instanceID: 16226}
+    - Class: 114
+      Script: {instanceID: 23840}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -1514,6 +1516,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 1a98b3782880193d2171d87c2c3ca915
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LocomotionController
   platform: 13
   scenePathNames:
   - Assets/Scenes/VRBowling.unity
