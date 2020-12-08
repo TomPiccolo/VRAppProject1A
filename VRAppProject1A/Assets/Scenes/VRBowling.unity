@@ -2797,7 +2797,7 @@ GameObject:
   - component: {fileID: 1054816661}
   - component: {fileID: 1054816660}
   - component: {fileID: 1054816659}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Teleportation Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8030,7 +8030,7 @@ Camera:
     y: 0
     width: 1
     height: 1
-  near clip plane: 0.1
+  near clip plane: 0.01
   far clip plane: 1000
   field of view: 60
   orthographic: 0
