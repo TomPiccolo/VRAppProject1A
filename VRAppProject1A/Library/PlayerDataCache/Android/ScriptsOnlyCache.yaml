@@ -1526,7 +1526,7 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   - hash:
       serializedVersion: 2
-      Hash: 499d63bbbcb5ab03eb8ac0c02796dc0e
+      Hash: 3b56cda369e62a44f5df343f256391da
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: ContinousMovement
