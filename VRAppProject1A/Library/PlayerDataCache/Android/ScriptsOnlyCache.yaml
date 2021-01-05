@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - ContinousMovement
+    - Gun
     - HandPresence
     - LocomotionController
     Unity.InputSystem.dll:
@@ -245,6 +246,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 16224}
     - Class: 114
       Script: {instanceID: 16230}
+    - Class: 114
+      Script: {instanceID: 37640}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -1536,6 +1539,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: b5892e2b415a089c51a5c36b6d57f87b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Gun
   platform: 13
   scenePathNames:
   - Assets/Scenes/VRBowling.unity
